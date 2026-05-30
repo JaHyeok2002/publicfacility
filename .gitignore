@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Xcode user data
+frontend/pulbicfacilityApp.xcodeproj/xcuserdata/
+frontend/pulbicfacilityApp.xcodeproj/project.xcworkspace/xcuserdata/
+frontend/pulbicfacilityApp/xcuserdata/
+
+# Xcode build
+frontend/build/
+frontend/DerivedData/
+
+# Spring / Gradle build
+backend/build/
+backend/.gradle/
