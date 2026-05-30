@@ -101,15 +101,13 @@ publicfacility는 공공시설 정보를 제공하는 iOS 앱 서비스입니다
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-Backend_IDE-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-API_Test-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-<br>
-
----
-
 ## 📱 주요 화면
 
 ### 1. 로그인 화면
 
 > 사용자가 이메일과 비밀번호를 입력하여 로그인할 수 있습니다.
+
+<img src="./docs/images/login.png" width="300">
 
 <br>
 
@@ -117,23 +115,31 @@ publicfacility는 공공시설 정보를 제공하는 iOS 앱 서비스입니다
 
 > 사용자가 계정을 생성하고 서비스를 이용할 수 있습니다.
 
-<br>
-
-### 3. 홈 화면
-
-> 공공시설 정보를 확인할 수 있는 메인 화면입니다.
+<img src="./docs/images/signup.png" width="300">
 
 <br>
 
-### 4. 공공시설 목록 화면
+### 3. 공공시설 목록 화면
 
 > 등록된 공공시설 목록을 조회할 수 있습니다.
 
+<img src="./docs/images/facility-list.png" width="300">
+
 <br>
 
-### 5. 시설 상세 화면
+### 4. 시설 상세 화면
 
 > 선택한 공공시설의 상세 정보를 확인할 수 있습니다.
+
+<img src="./docs/images/facility-detail.png" width="300">
+
+<br>
+
+### 5. 지도 화면
+
+> 공공시설 위치를 지도에서 확인할 수 있습니다.
+
+<img src="./docs/images/map.png" width="300">
 
 <br>
 
@@ -141,15 +147,17 @@ publicfacility는 공공시설 정보를 제공하는 iOS 앱 서비스입니다
 
 > 자주 이용하는 공공시설을 즐겨찾기로 관리할 수 있습니다.
 
+<img src="./docs/images/favorite.png" width="300">
+
+### 7. 마이페이지 화면
+
+> 마이페이지 정보를 확인할 수 있는 화면입니다.
+
+<img src="./docs/images/mypage.png" width="300">
+
 <br>
 
-### 7. 최근 조회 화면
-
-> 최근에 확인한 공공시설 정보를 다시 확인할 수 있습니다.
-
 <br>
-
----
 
 ## 🔗 API 구조
 
