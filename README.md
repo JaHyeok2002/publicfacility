@@ -333,7 +333,11 @@ publicfacility
 
 <br>
 
----
+## 시연 영상
+
+[![공공시설 안내 앱 발표 영상](https://img.youtube.com/vi/z6f1hcyqzOA/0.jpg)](https://youtu.be/z6f1hcyqzOA)
+
+[유튜브 발표 영상 보기](https://youtu.be/z6f1hcyqzOA)
 
 ## 📌 Contact
 
